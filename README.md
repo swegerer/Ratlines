@@ -2,6 +2,10 @@
 
 This project presents an interactive web map visualizing the so-called **Ratlines** — escape routes used by various Nazi criminals after World War II. It uses **Leaflet.js** and data exported from **QGIS** via `qgis2web`.
 
+
+![Example Map](example_maps/bohne.png)
+
+
 🌍 [**Click here to view the live map**](https://swegerer.github.io/Ratlines/)
 
 
