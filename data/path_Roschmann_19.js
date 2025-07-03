@@ -1,0 +1,1 @@
+var json_path_Roschmann_19 = {"type":"FeatureCollection","name":"path_Roschmann_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"begin":1.0,"end":4.0},"geometry":{"type":"LineString","coordinates":[[15.4399016,47.0711294],[11.4682786,48.2701422],[8.9490751,44.4054003],[-58.3907264,-34.603004]]}}]}
