@@ -11,7 +11,6 @@ You can:
 - Explore the map online.
 - Open the KML files in GIS software like QGIS to extend or modify the analysis.
 - Use the included style files to reproduce the visualization in a GIS environment.
-- 
 
 ## 📁 Project Contents
 
